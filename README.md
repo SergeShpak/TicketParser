@@ -15,3 +15,4 @@ Running the application will parse the file _test.html_ and store the results in
 # TODO
 1. Tests
 2. Refactor and clean the code
+3. Add DI mechanism for parser switching
