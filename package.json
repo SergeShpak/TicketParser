@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.8",
+    "@types/node": "^10.5.7"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
